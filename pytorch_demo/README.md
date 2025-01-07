@@ -28,6 +28,19 @@ python trainer.py
 python predictor.py
 ```
 
+```
+Using device: cpu
+Vocabulary size: 300
+Model loaded and ready for predictions
+
+问题: 什么是人工智能？
+回答: 注意力机制是一种让模型关注输入中重要部分的技术,在自然语言处理和计算机视觉中广泛应用。
+
+问题: Python的主要特点是什么？
+回答: Python是一种简单易学、可读性强的编程语言,支持面向对象编程,有丰富的第三方库。
+
+```
+
 ## 模型特点
 
 - 使用自定义Transformer架构
